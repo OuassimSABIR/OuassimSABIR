@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OuassimSABIR
-- 👀 I’m interested in Developping
+- 👀 I’m interested in Pentesting
 - 🌱 I’m currently learning Cybersecurity
 - 📫 How to reach me : linkedIn: OuassimSabir
 
